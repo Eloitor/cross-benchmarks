@@ -1,0 +1,3 @@
+maxLimit: 10000
+
+print.lines map 0..maxLimit => prime?
